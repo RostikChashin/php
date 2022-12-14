@@ -1,9 +1,227 @@
 .calc-row {
-    height: 100vh;
-    font-family: 'Share Tech Mono', monospace;
+  height: 100vh;
+
+  font-family: 'Share Tech Mono', monospace;
 }
 
 .input-window {
-    text-align: end;
-    font-size: x-large;
+  text-align: end;
+  font-size: x-large;
 }
+
+#btn_1:hover {
+  background: #1d49aa;
+}
+
+#btn_1:focus {
+  outline: none;
+  box-shadow: 0 0 0 4px #cbd6ee;
+}
+
+#btn_1 {
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #4676d7;
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+#btn_2:hover {
+  background: #1d49aa;
+}
+
+#btn_2:focus {
+  outline: none;
+  box-shadow: 0 0 0 4px #cbd6ee;
+}
+
+#btn_2 {
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #4676d7;
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+#btn_3:hover {
+    background: #1d49aa;
+  }
+  
+  #btn_3:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+  
+  #btn_3 {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+  
+
+  #btn_4:hover {
+    background: #1d49aa;
+  }
+  
+  #btn_4:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+  
+  #btn_4 {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+
+  
+  #btn_5:hover {
+    background: #1d49aa;
+  }
+  
+  #btn_5:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+  
+  #btn_5 {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+
+  
+  #btn_1:hover {
+    background: #1d49aa;
+  }
+  
+  #btn_1:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+  
+  #btn_1 {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+
+  
+  #btn_1:hover {
+    background: #1d49aa;
+  }
+  
+  #btn_1:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+  
+  #btn_1 {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+
+  
+  #btn_1:hover {
+    background: #1d49aa;
+  }
+  
+  #btn_1:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+  
+  #btn_1 {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+
+  
+  #btn_1:hover {
+    background: #1d49aa;
+  }
+  
+  #btn_1:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+  
+  #btn_1 {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+
+  
+  #btn_1:hover {
+    background: #1d49aa;
+  }
+  
+  #btn_1:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+  
+  #btn_1 {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+
+  #btn_1:hover {
+    background: #1d49aa;
+  }
+  
+  #btn_1:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+  
+  #btn_1 {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+  
